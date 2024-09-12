@@ -1,6 +1,4 @@
-#ask for temperature in Celsius
-tempC = int(input("Enter temperature in degrees Celsius"))
-#convert to Fahrenheit
-tempF = ((9 / 5) * tempC) + 32
-#give temperature in Fahrenheit
-print(tempC, "degrees Celsius is", tempF, "degrees Fahrenheit")
+print("Mackenzie Court")
+print("Hendricks, Minnesota 56136")
+print("507-430-6178")
+print("Highschool Senior")
